@@ -30,7 +30,7 @@ CombatAWM | Minecraft Bedrock Edition | Nukkit
 
 ---
 
-> * Link to cloudburstmc article -> [CloudburstMC](wait)
+> * Link to cloudburstmc article -> [CloudburstMC](wait) | Link to our discord group -> [SupportAWM](https://discord.gg/mAZ9YMV3)
 
 ---
 
