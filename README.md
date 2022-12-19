@@ -36,5 +36,5 @@ CombatAWM | Minecraft Bedrock Edition | Nukkit
 
 
 ```
-Reporting bugs: If you come across a bug, please report it here or on cloudburstmc.
+Reporting bugs: If you come across a bug, please report it here or on cloudburstmc or join our discord https://discord.gg/mAZ9YMV3.
 ```
